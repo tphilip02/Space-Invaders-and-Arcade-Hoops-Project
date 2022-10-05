@@ -1,4 +1,4 @@
-# Final Project Report - Tristan Philip A16400190
+# Project Overview - Tristan Philip 
 ***
 # Project Objectives 
 >The objectives of this project were to improve and build upon a rudimentary controller for the video game 
